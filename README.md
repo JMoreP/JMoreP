@@ -17,11 +17,11 @@
 
 ---
 
-### 🚀 About Me
-- 📱 Building performance-driven **Mobile Applications** (iOS & Android).
-- 🌐 Developing modern, responsive **Web Platforms**.
-- ☁️ Integrating serverless architectures & real-time databases with **Firebase**.
-- ⚡ Focused on clean code, UI/UX details, and smooth state management.
+### About Me
+- Building performance-driven **Mobile Applications** (iOS & Android).
+- Developing modern, responsive **Web Platforms**.
+- Integrating serverless architectures & real-time databases with **Firebase**.
+- Focused on clean code, UI/UX details, and smooth state management.
 
 ---
 
